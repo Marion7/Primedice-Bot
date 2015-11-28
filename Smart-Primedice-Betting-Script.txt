@@ -448,7 +448,7 @@ lut['post'](calculate_nonce('withdraw'), load);
                     if ($('#everyxrolls').val() != everyxrolls && $('#everyxrolls').val() != "") {
                     everyxrolls = $('#everyxrolls').val();
                     }
-                   if ($('#hilo').val() == "swap") { swapcount++;if (swapcount >= 1) { $('.value-roll:first').click();swapcount=0;} }
+                   if ($('#hilo').val() == "swap") { swapcount++;if (swapcount >= 1) { $('.value-roll:first').click();swapcount=0;}  }
      
             counter++;
             if (counter >= everyxrolls) {
