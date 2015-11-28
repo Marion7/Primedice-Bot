@@ -1,6 +1,4 @@
-# Primedice-Bot
-Primedice-Automated Betting Script
-
+# Primedice-Automated Betting Script
 Working on PD3 Platform.
 
 To use.
