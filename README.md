@@ -1,5 +1,5 @@
 # Primedice-Automated Betting Script
-Auto Betting Primedice 95% WIN
+Auto Betting Primedice 100% WIN
 
 To use.
 
